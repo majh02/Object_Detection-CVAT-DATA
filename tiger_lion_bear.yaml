@@ -8,3 +8,5 @@ test:  images/test # test images (optional)
 # Classes
 nc: 3  # number of classes
 names: ['tiger', 'lion', 'bear']  # class names
+
+download : https://github.com/majh02/Object_Detection-CVAT-DATA/blob/master/tiger_lion_bear.zip?raw=true
