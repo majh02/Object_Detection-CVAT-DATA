@@ -3,10 +3,10 @@
 path: /content/datasets/tiger_lion_bear # dataset root dir
 train: images/train  # train images (relative to 'path') 128 images
 val: images/train  # val images (relative to 'path') 128 images
-test:  images/test # test images (optional)
+test: # test images (optional)
 
 # Classes
 nc: 3  # number of classes
 names: ['tiger', 'lion', 'bear']  # class names
 
-download : https://github.com/majh02/Object_Detection-CVAT-DATA/blob/master/tiger_lion_bear.zip?raw=true
+download: https://github.com/majh02/Object_Detection-CVAT-DATA/raw/master/tiger_lion_bear.zip
